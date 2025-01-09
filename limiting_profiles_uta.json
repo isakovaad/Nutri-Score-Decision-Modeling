@@ -1,0 +1,47 @@
+{
+    "A": {
+        "Energy (kcal)": 494.0,
+        "Sugars (g)": 25.0,
+        "Salt (g)": 1.1,
+        "Saturated Fat (g)": 4.8,
+        "Proteins (g)": 80.0,
+        "Fiber (g)": 27.5,
+        "Fruits/Vegetables (%)": 99.796875
+    },
+    "B": {
+        "Energy (kcal)": 508.0,
+        "Sugars (g)": 27.1,
+        "Salt (g)": 1.3075,
+        "Saturated Fat (g)": 5.0,
+        "Proteins (g)": 22.1,
+        "Fiber (g)": 27.0,
+        "Fruits/Vegetables (%)": 56.1875
+    },
+    "C": {
+        "Energy (kcal)": 524.0,
+        "Sugars (g)": 48.0,
+        "Salt (g)": 2.0,
+        "Saturated Fat (g)": 9.2,
+        "Proteins (g)": 27.9,
+        "Fiber (g)": 27.0,
+        "Fruits/Vegetables (%)": 63.25
+    },
+    "D": {
+        "Energy (kcal)": 601.0,
+        "Sugars (g)": 39.0,
+        "Salt (g)": 1.42,
+        "Saturated Fat (g)": 20.7,
+        "Proteins (g)": 16.0,
+        "Fiber (g)": 14.0,
+        "Fruits/Vegetables (%)": 70.0
+    },
+    "E": {
+        "Energy (kcal)": 534.0,
+        "Sugars (g)": 40.0,
+        "Salt (g)": 1.67,
+        "Saturated Fat (g)": 16.0,
+        "Proteins (g)": 10.0,
+        "Fiber (g)": 7.11,
+        "Fruits/Vegetables (%)": 3.07161458333333
+    }
+}
