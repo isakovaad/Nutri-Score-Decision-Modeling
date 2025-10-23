@@ -4,6 +4,9 @@
 ## Project Overview
 
 This project explores various decision modeling approaches for classifying food products according to the Nutri-Score label system. We implement and compare Multi-Criteria Decision Analysis (MCDA) methods and Machine Learning algorithms to understand and potentially improve nutritional labeling systems.
+<img width="487" height="66" alt="Screenshot 2025-10-23 at 11 30 57 PM" src="https://github.com/user-attachments/assets/83944c3f-251d-48ce-abd4-e6cedfed10ae" />
+
+
 
 ## Team Members
 - Melissa Medjahed
