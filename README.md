@@ -158,7 +158,7 @@ jupyter notebook Machine_learning_approach.ipynb
 | Salt (g) | 3 | Minimize |
 | Proteins (g) | 2 | Maximize |
 | Fiber (g) | 2 | Maximize |
-| Fruits/Vegetables (%) | 1 | Maximize |
+| Fruits/Vegetables (%) | 1 | Maximize | 
 
 ## Key Findings
 
