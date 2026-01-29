@@ -92,7 +92,7 @@ Nutri-Score-Decision-Modeling/
 | Pessimistic Quintile (λ=0.5) | ~45% | Balanced approach | Low overall accuracy |
 | Optimistic Clustering (λ=0.6) | ~50% | Data-driven profiles | Tends to predict category A |
 | Decision Tree | 81.3% | Interpretable, balanced | Struggles with category E |
-| XGBoost | 89.0% | Best accuracy, robust | Less interpretable |
+| XGBoost | 89.0% | Best accuracy, robust | Less interpretable | 
 
 ## Getting Started
 
